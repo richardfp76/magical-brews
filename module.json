@@ -1,0 +1,45 @@
+{
+  "id": "shared-content",
+  "title": "T'chok's Magical Brews",
+  "version": "1.0.0",
+"manifest": "https://github.com/richardfp76/magical-brews/releases/latest/download/module.json",
+"download": "https://github.com/richardfp76/magical-brews/releases/download/1.0.0/module.zip",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14",
+    "maximum": "14"
+  },
+  "authors": [
+    {
+      "name": "Richardfp",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "Items",
+      "label": "Items",
+      "path": "packs/Items",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+],
+  },
+  "description": ""
+}
