@@ -21,3 +21,5 @@ will prompt a major module update release. Adjustments and improvements to exiti
 
 Thanks goes to JojoSmith and Mundane, who can be found on Discord, for their creativity and generousity for letting me mkae these 
 automated brews from their recipies. Cheers me dears.
+
+The Module Manifest link to add the module to Foundry is https://github.com/richardfp76/magical-brews/releases/download/1.0.1/module.json Enjoy.
