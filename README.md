@@ -1,6 +1,6 @@
 What do you know about dragons? 
 
-Well you don't need to know much, but this was the prompt from a DM to a unsuspecting group of D&D5e adventurers. 
+Well you don't need to know much, but this was the prompt from a DM to an unsuspecting group of D&D5e adventurers. 
 It led to an adventure that would spawn a surge of creative storytelling and homebrewing rule sets, weapons, monsters, 
 and the creative use of beans, apples, and more importantly the varied remains of the monsters and creatures these 
 adventuers would defeat. When the scavaged remains of non-senient, and sentient creatures are mixed together with 
